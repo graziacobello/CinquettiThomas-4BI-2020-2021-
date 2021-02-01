@@ -1,8 +1,12 @@
 
-site_name: 2020_5BI_Team1
+site_name: Cinquetti_Thomas
 
 nav:
-    - 'MD': 'Default.md'
-
+    - 'Test': 'test.txt'
+    
+  markdown_extensions:
+   
+    - toc: permalink: True
+    
 theme:
-    name: readthedocs
+  name : readthedocs
