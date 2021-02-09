@@ -3,6 +3,7 @@ site_name: Cinquetti_Thomas
 
 nav:
     - 'Test': 'test.txt'
+    - 'Alghe': 'Alghe_01.java'
     
 theme:
   name : readthedocs
